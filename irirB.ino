@@ -3,7 +3,7 @@
 // CopyRight (c) 2021 Yuto Yazawa
 // 
 // Released under MIT license.
-// see https://opensource.org/licenses/MIT
+// see LICENSE
 // 
 
 #include <LiquidCrystal_I2C.h>
